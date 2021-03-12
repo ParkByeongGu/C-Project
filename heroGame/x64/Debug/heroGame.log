@@ -1,0 +1,27 @@
+﻿  heroGame.cpp
+C:\박병규\Hero0311\heroGame\heroGame.cpp(172,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(172,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(176,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(176,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(178,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(178,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(182,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(182,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(184,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(184,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(186,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(186,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(201,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(201,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(205,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(205,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(207,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(207,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(211,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(211,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(213,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(213,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(215,10): warning C4566: 유니버설 문자 이름 '\u2571'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(215,10): warning C4566: 유니버설 문자 이름 '\u2572'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\박병규\Hero0311\heroGame\heroGame.cpp(235,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  heroGame.vcxproj -> C:\박병규\Hero0311\x64\Debug\heroGame.exe
